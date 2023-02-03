@@ -1,7 +1,7 @@
+import Home from "./pages/Home";
+
 const App = () => (
-  <div>
-    <h1>Init</h1>
-  </div>
+  <Home/>
 );
 
 export default App;
