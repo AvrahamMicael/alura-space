@@ -1,8 +1,8 @@
-import home from '../../assets/icones/home-ativo.png';
-import moreLikes from '../../assets/icones/mais-curtidas-inativo.png';
-import moreViews from '../../assets/icones/mais-vistas-inativo.png';
-import newOnes from '../../assets/icones/novas-inativo.png';
-import surprise from '../../assets/icones/surpreenda-me-inativo.png';
+import home from '../../assets/icons/home-ativo.png';
+import moreLikes from '../../assets/icons/mais-curtidas-inativo.png';
+import moreViews from '../../assets/icons/mais-vistas-inativo.png';
+import newOnes from '../../assets/icons/novas-inativo.png';
+import surprise from '../../assets/icons/surpreenda-me-inativo.png';
 import styles from './styles.module.scss';
 
 const Menu = () => {

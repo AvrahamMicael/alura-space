@@ -1,4 +1,4 @@
-import Home from "./pages/Home/Home";
+import Home from "./pages/Home";
 import './styles/index.scss';
 
 const App = () => (

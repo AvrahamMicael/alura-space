@@ -1,0 +1,30 @@
+@import '../../styles/variables';
+
+.footer
+{
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  height: 64px;
+  background-color: rgba($dark-blue, .7);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  & > div, & > p
+  {
+    display: inline-block;
+    margin: 0 50px;
+
+    & > a
+    {
+      margin-right: 20px;
+    }
+  }
+
+  & > p
+  {
+    color: $text-color;
+    font-family: $font-normal;
+  }
+}
