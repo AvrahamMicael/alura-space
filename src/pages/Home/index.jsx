@@ -1,4 +1,5 @@
 import Footer from "../../components/Footer";
+import Gallery from "../../components/Gallery";
 import Header from "../../components/Header";
 import Menu from "../../components/Menu";
 import banner from './img/banner.png';
@@ -20,6 +21,7 @@ const Home = () => (
         </section>
       </main>
     </div>
+    <Gallery/>
     <Footer/>
   </>
 );
