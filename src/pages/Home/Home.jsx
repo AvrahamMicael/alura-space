@@ -10,7 +10,7 @@ const Home = () => (
       <aside>
         <Menu/>
       </aside>
-      <main>
+      <main className={ styles.main }>
         <section className={ styles.mainSection }>
           <div className={ styles.mainSection__image }>
             <h1>A galeria mais completa do espaço</h1>
